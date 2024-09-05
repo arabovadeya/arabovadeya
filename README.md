@@ -23,9 +23,6 @@
 <a href="https://isocpp.org" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
 </a>&nbsp;
-<a href="https://en.cppreference.com/w/c" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-</a>&nbsp;
 <a href="https://www.oracle.com" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>
 </a>&nbsp;
@@ -41,9 +38,21 @@
 ---
 ###  Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" **alt="Pycharm" width="40" height="40"/>
-
-  
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  </a>
 </div>
 Here are some ideas to get you started:
 
