@@ -67,10 +67,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   </a>
 </div>
+
 ---
 ###  How to reach me :
 <div>
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg" title="Telegram" alt="Telegram" width="40" height="40"/>
+   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/vk.svg" title="Vk" alt="Vk" width="40" height="40"/>
 </div>
--->
+
 
