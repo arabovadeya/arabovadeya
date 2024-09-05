@@ -14,6 +14,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 </div>
+
+---
 ### Languages :
 <div>
   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
