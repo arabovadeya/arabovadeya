@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Deya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
----
 ###  How to reach me :
 <div>
   Here are some ideas to get you started:
@@ -71,7 +70,7 @@
 ---
 ###  How to reach me :
 <div>
-   <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+   <a href="https://t.me/deya_im" target="_blank" rel="noopener noreferrer">
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg" title="Telegram" alt="Telegram" width="40" height="40"/>
     </a>
  <a href="https://vk.me/deya_im" target="_blank" rel="noopener noreferrer">
