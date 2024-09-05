@@ -72,6 +72,7 @@
 ###  How to reach me :
 <div>
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg" title="Telegram" alt="Telegram" width="40" height="40"/>
+ <a href="https://vk.me/deya_im" target="_blank" rel="noopener noreferrer">
    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/vk.svg" title="Vk" alt="Vk" width="40" height="40"/>
 </div>
 
