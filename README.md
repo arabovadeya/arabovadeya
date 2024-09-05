@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Deya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<img height="20" src="https://cdn.simpleicons.org/github?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/simpleicons?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/awesomelists?viewbox=auto" />
-<!--
+
 **arabovadeya/arabovadeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
